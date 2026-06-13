@@ -1,16 +1,40 @@
 # Hi there 👋 I'm Pavnesh Sahu
 
-<!--
-**Pavnesh-Embedded/Pavnesh-Embedded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics & Communication Engineering Graduate
 
-Here are some ideas to get you started:
+💻 Aspiring Embedded Systems Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Skills
+- C Programming
+- Embedded C
+- 8051 Microcontroller
+- Arduino
+- Digital Electronics
+- Analog Electronics
+- IoT
+- Circuit Design
+- PCB Basics
+
+📚 Currently Learning
+- STM32
+- ARM Cortex-M
+- RTOS
+- Device Drivers
+- Embedded Linux
+- Communication Protocols (UART, SPI, I2C, CAN)
+
+🚀 Areas of Interest
+- Embedded Systems
+- Firmware Development
+- Microcontrollers
+- Automotive Electronics
+- Industrial Automation
+- Internet of Things (IoT)
+
+📂 Projects
+- Voice & Joystick Controlled Wheelchair with Health Monitoring System
+- IoT Based Embedded Projects
+- 8051 Microcontroller Applications
+
+🎯 Career Goal
+To build a career in Embedded Systems and Firmware Development.
