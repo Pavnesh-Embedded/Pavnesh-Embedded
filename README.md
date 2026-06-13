@@ -1,4 +1,4 @@
-## Hi there 👋 I'M Pavnesh Sahu
+## Hi there 👋 I'm Pavnesh Sahu
 
 <!--
 **Pavnesh-Embedded/Pavnesh-Embedded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
