@@ -1,40 +1,29 @@
 # Hi there 👋 I'm Pavnesh Sahu
 
-🎓 Electronics & Communication Engineering Graduate
+# 💫 About Me:
+Hi, I'm Pavnesh. I am an Electronics & Communication Engineering graduate with a strong interest in Embedded Systems and Firmware Development. I enjoy working with microcontrollers, Embedded C, digital electronics, and IoT-based projects. Currently, I am improving my skills in 8051, communication protocols, and real-world embedded applications.
 
-💻 Aspiring Embedded Systems Engineer
 
-🔧 Skills
-- C Programming
-- Embedded C
-- 8051 Microcontroller
-- Arduino
-- Digital Electronics
-- Analog Electronics
-- IoT
-- Circuit Design
-- PCB Basics
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pavnesh-sahu-4926472a6) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pavneshsahu7@gmail.com) 
 
-📚 Currently Learning
-- STM32
-- ARM Cortex-M
-- RTOS
-- Device Drivers
-- Embedded Linux
-- Communication Protocols (UART, SPI, I2C, CAN)
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Pavnesh-Embedded&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Pavnesh-Embedded&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Pavnesh-Embedded&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-🚀 Areas of Interest
-- Embedded Systems
-- Firmware Development
-- Microcontrollers
-- Automotive Electronics
-- Industrial Automation
-- Internet of Things (IoT)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Pavnesh-Embedded&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-📂 Projects
-- Voice & Joystick Controlled Wheelchair with Health Monitoring System
-- IoT Based Embedded Projects
-- 8051 Microcontroller Applications
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-🎯 Career Goal
-To build a career in Embedded Systems and Firmware Development.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Pavnesh-Embedded&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=Pavnesh-Embedded&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
